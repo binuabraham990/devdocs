@@ -108,7 +108,7 @@ With '[technicalName]-grid' can you create an association to a multi selection o
 | type          | Field type                                                    |
 | helpText      | Field helpText                                                |
 | description   | Field description                                             |
-| translateable | Field is translateable?                                       |
+| translatable  | Field is translatable?                                       |
 | required      | Field is required?                                            |
 | options       | Can be used to pass variables to extjs                        |
 | custom        | Can be used to store custom variables                         |
